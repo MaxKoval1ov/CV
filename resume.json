@@ -1,0 +1,192 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "Favourite Projects",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Experience",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Maksim Kavaliou",
+    "email": "maxkov112211@gmail.com",
+    "phone": "+48790373993",
+    "location": {
+      "address": "Warszaw, Poland"
+    },
+    "website": "https://www.linkedin.com/in/mkov/"
+  },
+  "education": [
+    {
+      "institution": "Belarusian State University of Informatics and Radioelectronics",
+      "location": "Minsk, Belarus",
+      "studyType": "BS",
+      "endDate": "Jul 2023",
+      "area": "Computer Science",
+      "startDate": "Sep 2019"
+    },
+    {
+      "institution": "EPAM Lab",
+      "area": "Developer(Angular)",
+      "startDate": "Apr 2021",
+      "endDate": "Jun 2021",
+      "studyType": "Front End",
+      "location": "Minsk, Belarus"
+    },
+    {
+      "institution": "RS School",
+      "studyType": "Front End",
+      "area": "Developer",
+      "startDate": "Nov 2020",
+      "endDate": "Apr 2021",
+      "location": "Online"
+    }
+  ],
+  "work": [
+    {
+      "company": "Itexus",
+      "location": "Minsk/Warszaw",
+      "position": "Full Stack developer",
+      "website": "",
+      "endDate": "",
+      "highlights": [
+        "Server-side Development(API development) ",
+        "Client-side Development",
+        "Participating in System Architecture",
+        "Performance Optimization",
+        "Code review",
+        "Communication with customers"
+      ],
+      "startDate": "May 2022"
+    },
+    {
+      "highlights": [
+        "Client-side Development",
+        "Testing and Debugging",
+        "Code review"
+      ],
+      "company": "EPAM",
+      "position": "Web developer",
+      "location": "Minsk",
+      "startDate": "Jun 2021",
+      "endDate": "May 2022"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Typescript",
+        "NodeJS",
+        "ReactJS",
+        "NestJS",
+        "ExpressJS"
+      ],
+      "name": "Main stack"
+    },
+    {
+      "keywords": [
+        "Postgres"
+      ],
+      "name": "SQL"
+    },
+    {
+      "keywords": [
+        "MongoDB",
+        "Redis"
+      ],
+      "name": "NoSQL"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "K8s"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Bash",
+        "Jenkins"
+      ],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": [
+        "AWS"
+      ],
+      "name": "Cloud"
+    },
+    {
+      "keywords": [
+        "C/C++",
+        "Go"
+      ],
+      "name": "Basics"
+    },
+    {
+      "keywords": [
+        "English(B2)",
+        "Russian(NATIVE)",
+        "Polish(B1)"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Order tracking and management system",
+      "url": "",
+      "keywords": [
+        "Microservice architectue"
+      ],
+      "description": "System to track orders and manage documents across a company and its subsidiaries. The system was made to make it visually appealing and functional, a user-friendly interface with a clean design can enhance its efficiency."
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Crypto platform",
+      "description": "Platform for crypto trading"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Mobile bank application(API development)",
+      "description": "Experience a sleek banking app with card management, physical card ordering, multi-account support, and seamless transfers, all wrapped in an intuitive and visually pleasing interface."
+    },
+    {
+      "keywords": [
+        "Microservice architecture"
+      ],
+      "name": "Trading web application",
+      "description": "Effortlessly generate stock orders following predefined strategies within an intuitively designed application for streamlined investing."
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Recruiters platform",
+      "description": "Streamline the recruitment process for both recruiters and applicants through a comprehensive platform that automates hiring, supports various features, invites candidates, records and concatenates videos, and ensures a seamless experience for all involved."
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
